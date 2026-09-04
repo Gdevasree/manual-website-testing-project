@@ -17,8 +17,7 @@ This project demonstrates real-time manual testing performed on a website. The t
 * Expected vs Actual Result Validation
 
 ## Testing Documentation
-
-📄 **[View Manual Testing Documentation](YOUR_GOOGLE_DRIVE_LINK)**
+[View Manual Testing Documentation](https://drive.google.com/drive/folders/1Cpii2kt5D9uOMm942p-9oCNoW0gCtOHG?usp=sharing)
 
 ## Documentation Includes
 
